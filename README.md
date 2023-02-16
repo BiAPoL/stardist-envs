@@ -57,3 +57,4 @@ This repository hosts `.yml` files to create conda/mamba environments with [star
 
 6. Run/modify the example notebooks to your needs through `jupyter lab` (optionally, open [napari](https://napari.org/stable/) and use the [stardist-napari plugin](https://www.napari-hub.org/plugins/stardist-napari)).
     
+*In case you want to remove a conda/mamba environment: `mamba env remove -n environment_name`*
