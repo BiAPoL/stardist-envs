@@ -1,6 +1,6 @@
-# Stardist Environments
+# Stardist Conda Environments
 
-This repository hosts `.yml` files to create conda/mamba environments with stardist, napari and pyclesperanto.
+This repository hosts `.yml` files to create conda/mamba environments with [stardist](https://github.com/stardist/stardist), [napari](https://napari.org/stable/) and [pyclesperanto](https://github.com/clEsperanto/pyclesperanto_prototype).
 
 ## Usage
 
