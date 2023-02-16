@@ -4,6 +4,9 @@ This repository hosts `.yml` files to create conda/mamba environments with stard
 
 ## Usage
 
+* [Linux](#linux)
+* [Windows](#windows)
+
 ### Linux
 
 1. Download and install [mambaforge](https://github.com/conda-forge/miniforge#mambaforge) for Linux.
@@ -30,7 +33,7 @@ This repository hosts `.yml` files to create conda/mamba environments with stard
     
 7. Clone the [Stardist repository](https://github.com/stardist/stardist) to your computer (using [GitHub Desktop](https://desktop.github.com/) for example or `git` commands).
 
-8. Run/modify the example notebooks to your needs through `jupyter lab`.
+8. Run/modify the example notebooks to your needs through `jupyter lab` (optionally, open [napari](https://napari.org/stable/) and use the [stardist-napari plugin](https://www.napari-hub.org/plugins/stardist-napari)).
 
 ### Windows
 
@@ -50,5 +53,5 @@ This repository hosts `.yml` files to create conda/mamba environments with stard
     
 5. Clone the [Stardist repository](https://github.com/stardist/stardist) to your computer (using [GitHub Desktop](https://desktop.github.com/) for example or `git` commands).
 
-6. Run/modify the example notebooks to your needs through `jupyter lab`.
+6. Run/modify the example notebooks to your needs through `jupyter lab` (optionally, open [napari](https://napari.org/stable/) and use the [stardist-napari plugin](https://www.napari-hub.org/plugins/stardist-napari)).
     
