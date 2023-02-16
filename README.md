@@ -13,7 +13,7 @@ This repository hosts `.yml` files to create conda/mamba environments with [star
 
     * (optional) In case you have [miniforge or miniconda](https://github.com/conda-forge/miniforge#miniforge3) already installed, you can install `mamba` in the `base` environment with `conda install -c conda-forge mamba`.
 
-2. From a terminal, run `mamba init` once, close that terminal and open a new one.
+2. From a terminal, run `mamba init` once, close that terminal and open a new one (this only has to be done once).
 
 3. Download the [`stardist-linux.yml`](https://github.com/BiAPoL/stardist-envs/blob/main/stardist-linux.yml) file from this GitHub repository (right-click on 'Raw' and 'Save link as...').
 
