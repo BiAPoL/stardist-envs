@@ -19,7 +19,7 @@ This repository hosts `.yml` files to create conda/mamba environments with [star
 
 4. In the new terminal, navigate to the place where you saved `stardist-linux.yml` and run:
 
-    `mamba install -f stardist-linux.yml`
+    `mamba env create -f stardist-linux.yml`
     
 5. Activate the new environment with:
 
@@ -47,7 +47,7 @@ This repository hosts `.yml` files to create conda/mamba environments with [star
 
 3. In the new terminal, navigate to the place where you saved `stardist-windows.yml` and run:
 
-    `mamba install -f stardist-windows.yml`
+    `mamba env create -f stardist-windows.yml`
     
 4. Activate the new environment with:
 
