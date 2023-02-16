@@ -30,7 +30,7 @@ dependencies:
       - napari-workflows==0.2.8
       - tensorflow==2.10
       - nvidia-pyindex
-      - nvidia-tensort==7.2.3.4
+      - nvidia-tensorrt==7.2.3.4
       - stardist
       - stardist-napari
       
