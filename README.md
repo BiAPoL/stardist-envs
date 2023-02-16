@@ -33,9 +33,11 @@ This repository hosts `.yml` files to create conda/mamba environments with [star
     
     `echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CONDA_PREFIX/lib/python3.8/site-packages/tensorrt/' >> $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh`
     
-7. Clone the [Stardist repository](https://github.com/stardist/stardist) to your computer (using [GitHub Desktop](https://desktop.github.com/) for example or `git` commands).
+7. For the above changes to take effect, close the terminal, re-open it and activate the environment again with `mamba activate stardist-linux`.
+    
+8. Clone the [Stardist repository](https://github.com/stardist/stardist) to your computer (using [GitHub Desktop](https://desktop.github.com/) for example or `git` commands).
 
-8. Run/modify the example notebooks to your needs through `jupyter lab` (optionally, open [napari](https://napari.org/stable/) and use the [stardist-napari plugin](https://www.napari-hub.org/plugins/stardist-napari)).
+9. Run/modify the example notebooks to your needs through `jupyter lab` (optionally, open [napari](https://napari.org/stable/) and use the [stardist-napari plugin](https://www.napari-hub.org/plugins/stardist-napari)).
 
 ### Windows
 
