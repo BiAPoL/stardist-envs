@@ -33,3 +33,4 @@ dependencies:
       - nvidia-tensort==7.2.3.4
       - stardist
       - stardist-napari
+      
